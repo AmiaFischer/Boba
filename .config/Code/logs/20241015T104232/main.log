@@ -1,0 +1,40 @@
+2024-10-15 10:42:33.417 [info] update#setState idle
+2024-10-15 10:43:02.763 [info] update#setState checking for updates
+2024-10-15 10:43:02.876 [info] update#setState idle
+2024-10-15 12:02:04.697 [info] update#setState checking for updates
+2024-10-15 12:02:13.048 [info] update#setState idle
+2024-10-15 13:37:01.060 [info] update#setState checking for updates
+2024-10-15 13:37:08.808 [info] update#setState idle
+2024-10-15 14:56:15.057 [info] update#setState checking for updates
+2024-10-15 14:56:25.617 [info] update#setState idle
+2024-10-15 15:56:14.872 [info] update#setState checking for updates
+2024-10-15 15:56:15.173 [info] update#setState idle
+2024-10-15 23:10:23.393 [info] update#setState checking for updates
+2024-10-15 23:10:32.767 [info] update#setState idle
+2024-10-16 07:48:23.612 [info] update#setState checking for updates
+2024-10-16 07:48:31.754 [info] update#setState idle
+2024-10-16 09:39:30.383 [info] update#setState checking for updates
+2024-10-16 09:39:38.782 [info] update#setState idle
+2024-10-16 10:39:30.292 [info] update#setState checking for updates
+2024-10-16 10:39:30.416 [info] update#setState idle
+2024-10-16 12:20:16.518 [info] update#setState checking for updates
+2024-10-16 12:20:42.805 [error] [network] #12: https://update.code.visualstudio.com/api/update/linux-x64/stable/384ff7382de624fb94dbaf6da11977bba1ecd427 - error undefined net::ERR_NAME_NOT_RESOLVED
+2024-10-16 12:20:42.814 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114527)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+2024-10-16 12:20:42.818 [info] update#setState idle
+2024-10-16 13:36:22.678 [info] update#setState checking for updates
+2024-10-16 13:36:30.772 [info] update#setState idle
+2024-10-16 14:51:55.997 [info] update#setState checking for updates
+2024-10-16 14:52:03.882 [info] update#setState idle
+2024-10-16 16:30:14.555 [info] update#setState checking for updates
+2024-10-16 16:30:23.136 [info] update#setState idle
+2024-10-16 17:30:14.505 [info] update#setState checking for updates
+2024-10-16 17:30:14.749 [info] update#setState idle
+2024-10-16 21:21:57.282 [info] update#setState checking for updates
+2024-10-16 21:22:00.085 [info] update#setState idle
+2024-10-16 22:21:56.639 [info] update#setState checking for updates
+2024-10-16 22:21:56.910 [info] update#setState idle
+2024-10-17 09:36:17.613 [info] update#setState checking for updates
+2024-10-17 09:36:24.728 [info] update#setState idle
+2024-10-17 09:36:31.692 [info] Extension host with pid 12276 exited with code: 0, signal: unknown.

@@ -1,0 +1,13 @@
+2024-10-11 19:21:16.972 [info] Started local extension host with pid 6267.
+2024-10-11 19:21:17.292 [info] Started initializing default profile extensions in extensions installation folder. file:///home/amiafischer/.vscode/extensions
+2024-10-11 19:21:18.463 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/amiafischer/.vscode/extensions
+2024-10-11 19:21:21.744 [info] [perf] Render performance baseline is 41ms
+2024-10-11 19:22:46.578 [error] [network] #3: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST Canceled
+2024-10-11 19:22:46.579 [error] [network] #2: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST Canceled
+2024-10-11 19:35:22.091 [info] Started local extension host with pid 6575.
+2024-10-11 19:35:25.090 [info] [perf] Render performance baseline is 82ms
+2024-10-11 19:42:13.447 [error] [network] #6: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST Canceled
+2024-10-11 19:42:14.100 [error] [network] #7: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST Canceled
+2024-10-11 19:42:15.937 [error] [network] #11: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST Canceled
+2024-10-11 19:42:15.937 [error] [network] #10: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST Canceled
+2024-10-11 19:42:55.801 [error] [network] #23: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST Canceled

@@ -1,0 +1,37 @@
+2024-10-13 20:22:54.129 [info] Started local extension host with pid 9723.
+2024-10-13 20:22:59.270 [info] [perf] Render performance baseline is 143ms
+2024-10-13 20:24:38.794 [error] Unable to find matching pair for < at char 118: Error: Unable to find matching pair for < at char 118
+	at r.error (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:22471)
+	at d (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:21701)
+	at u (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14683)
+	at d (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14817)
+	at /usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15429
+	at v (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15535)
+	at j (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16481)
+	at P (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16891)
+	at t.getRootNode (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:145499)
+	at t.DefaultCompletionItemProvider.provideCompletionItemsInternal (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:131039)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:129817)
+	at eC.provideCompletionItems (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:136391)
+	at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:159492
+	at tr.s (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:150779)
+	at tr.$provideCompletionItems (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:159480)
+	at Zb.S (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:113896)
+	at Zb.Q (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:113676)
+	at Zb.M (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:112727)
+	at Zb.L (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:111870)
+	at gh.value (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:110667)
+	at T.B (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+	at T.fire (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:950)
+	at no.fire (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:9399)
+	at gh.value (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:13273)
+	at T.B (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+	at T.fire (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:950)
+	at no.fire (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:9399)
+	at MessagePortMain.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:11562)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2619)
+2024-10-13 20:27:54.631 [error] [network] #3: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST Canceled
+2024-10-13 20:27:56.903 [error] [network] #4: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST Canceled
+2024-10-13 22:14:51.338 [error] [network] #22: https://az764295.vo.msecnd.net/extensions/chat.json - error GET Failed to fetch
+2024-10-13 22:14:51.359 [warning] Failed to fetch chat participant registry Failed to fetch

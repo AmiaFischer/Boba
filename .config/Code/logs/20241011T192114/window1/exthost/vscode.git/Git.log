@@ -1,0 +1,49 @@
+2024-10-11 19:21:19.947 [info] [main] Log level: Info
+2024-10-11 19:21:19.947 [info] [main] Validating found git in: "git"
+2024-10-11 19:21:19.947 [info] [main] Using git "2.39.5" from "git"
+2024-10-11 19:21:19.947 [info] [Model][doInitialScan] Initial repository scan started
+2024-10-11 19:21:19.947 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-10-11 19:23:33.607 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-11 19:23:33.607 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-11 19:35:27.397 [info] [main] Log level: Info
+2024-10-11 19:35:27.397 [info] [main] Validating found git in: "git"
+2024-10-11 19:35:27.397 [info] [main] Using git "2.39.5" from "git"
+2024-10-11 19:35:27.397 [info] [Model][doInitialScan] Initial repository scan started
+2024-10-11 19:35:27.397 [info] > git rev-parse --show-toplevel [13ms]
+2024-10-11 19:35:27.397 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-11 19:35:27.407 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-11 19:35:27.407 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-11 19:35:27.415 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-11 19:35:27.415 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-11 19:35:27.424 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-11 19:35:27.424 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-11 19:35:27.431 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-11 19:35:27.432 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-11 19:35:27.443 [info] > git rev-parse --show-toplevel [6ms]
+2024-10-11 19:35:27.443 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-11 19:35:27.448 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-10-11 19:35:54.974 [info] > git rev-parse --show-toplevel [55ms]
+2024-10-11 19:35:54.974 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-11 19:42:34.121 [info] > git rev-parse --show-toplevel [3ms]
+2024-10-11 19:42:34.121 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-11 19:42:49.577 [info] > git rev-parse --show-toplevel [5ms]
+2024-10-11 19:42:49.577 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-11 19:43:42.737 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-11 19:43:42.737 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-11 19:43:51.251 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-11 19:43:51.251 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-11 19:43:51.262 [info] > git rev-parse --show-toplevel [3ms]
+2024-10-11 19:43:51.262 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-11 19:43:51.276 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-11 19:43:51.276 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-11 19:43:51.290 [info] > git rev-parse --show-toplevel [3ms]
+2024-10-11 19:43:51.290 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-11 19:43:52.823 [info] > git rev-parse --show-toplevel [4ms]
+2024-10-11 19:43:52.823 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-11 19:43:53.342 [info] > git rev-parse --show-toplevel [21ms]
+2024-10-11 19:43:53.342 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-11 19:43:53.629 [warning] [Model][getRepositoryExact] Failed to get repository realpath for: "/home/amiafischer/.vscode/extensions/.81f1c8ef-47a3-4c0d-9dcd-bc3261c0eed3/node_modules/ext/". Error:Error: ENOENT: no such file or directory, realpath '/home/amiafischer/.vscode/extensions/.81f1c8ef-47a3-4c0d-9dcd-bc3261c0eed3/node_modules/ext/'
+2024-10-11 19:43:53.659 [warning] [Model][getRepositoryExact] Failed to get repository realpath for: "/home/amiafischer/.vscode/extensions/.81f1c8ef-47a3-4c0d-9dcd-bc3261c0eed3/node_modules/supports-preserve-symlinks-flag/". Error:Error: ENOENT: no such file or directory, realpath '/home/amiafischer/.vscode/extensions/.81f1c8ef-47a3-4c0d-9dcd-bc3261c0eed3/node_modules/supports-preserve-symlinks-flag/'
+2024-10-11 19:43:53.676 [warning] [Model][getRepositoryExact] Failed to get repository realpath for: "/home/amiafischer/.vscode/extensions/.81f1c8ef-47a3-4c0d-9dcd-bc3261c0eed3/node_modules/balanced-match/". Error:Error: ENOENT: no such file or directory, realpath '/home/amiafischer/.vscode/extensions/.81f1c8ef-47a3-4c0d-9dcd-bc3261c0eed3/node_modules/balanced-match/'
+2024-10-11 19:44:02.475 [info] > git rev-parse --show-toplevel [6ms]
+2024-10-11 19:44:02.475 [info] fatal: not a git repository (or any of the parent directories): .git

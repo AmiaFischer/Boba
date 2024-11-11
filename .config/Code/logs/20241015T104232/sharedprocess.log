@@ -1,0 +1,10 @@
+2024-10-15 13:37:00.667 [error] [network] #14: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_ADDRESS_UNREACHABLE
+2024-10-15 13:43:07.515 [error] [network] #16: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_ADDRESS_UNREACHABLE
+2024-10-16 10:30:17.664 [error] [network] #59: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_ADDRESS_UNREACHABLE
+2024-10-16 12:20:29.610 [error] [network] #64: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_NAME_NOT_RESOLVED
+2024-10-16 12:20:44.648 [error] [network] #65: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED
+2024-10-16 12:21:10.987 [error] [network] #66: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED
+2024-10-16 12:21:10.988 [error] [network] #67: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED
+2024-10-16 12:21:38.497 [error] [network] #68: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED
+2024-10-16 12:22:15.490 [error] [network] #69: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED
+2024-10-16 12:22:44.125 [error] [network] #70: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED

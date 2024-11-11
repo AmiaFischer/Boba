@@ -1,0 +1,14 @@
+2024-10-13 20:28:11.653 [info] Getting Manifest... vscode-icons-team.vscode-icons
+2024-10-13 20:28:11.971 [info] Installing extension: vscode-icons-team.vscode-icons {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/amiafischer/.vscode/extensions/extensions.json","path":"/home/amiafischer/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.94.2","date":"2024-10-09T16:08:44.566Z"}}
+2024-10-13 20:28:15.614 [info] Extension signature verification result for vscode-icons-team.vscode-icons: Success. Executed: true. Duration: 1831ms.
+2024-10-13 20:28:18.463 [info] Extracted extension to file:///home/amiafischer/.vscode/extensions/vscode-icons-team.vscode-icons-12.9.0: vscode-icons-team.vscode-icons
+2024-10-13 20:28:18.504 [info] Renamed to /home/amiafischer/.vscode/extensions/vscode-icons-team.vscode-icons-12.9.0
+2024-10-13 20:28:18.537 [info] Extension installed successfully: vscode-icons-team.vscode-icons vscode-userdata:/home/amiafischer/.vscode/extensions/extensions.json
+2024-10-13 20:28:18.599 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/amiafischer/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/amiafischer/.vscode/extensions/extensions.json.vsctmp'
+    at lm.create (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39253)
+    at Es (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39360)
+    at Fr.ib (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:22661)
+    at Fr.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:15994)
+    at async eh.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:84484)
+    at async Kl.yb (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:66600)
+2024-10-13 22:14:49.502 [error] [network] #67: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_NETWORK_CHANGED

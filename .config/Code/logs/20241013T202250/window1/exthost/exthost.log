@@ -1,0 +1,82 @@
+2024-10-13 20:22:55.923 [info] Extension host with pid 9723 started
+2024-10-13 20:22:55.923 [info] Skipping acquiring lock for /home/amiafischer/.config/Code/User/workspaceStorage/ae69b9e04a6c67ec37f7c4d3734b5dd0.
+2024-10-13 20:22:56.345 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-10-13 20:22:56.420 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2024-10-13 20:22:57.157 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-10-13 20:22:57.196 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-10-13 20:22:57.363 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-10-13 20:22:57.890 [info] Eager extensions activated
+2024-10-13 20:22:58.054 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-10-13 20:22:58.075 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-10-13 20:22:58.212 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2024-10-13 20:24:38.789 [error] [vscode.emmet] provider FAILED
+2024-10-13 20:24:38.790 [error] Error: Unable to find matching pair for < at char 118
+	at r.error (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:22471)
+	at d (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:21701)
+	at u (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14683)
+	at d (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14817)
+	at /usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15429
+	at v (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15535)
+	at j (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16481)
+	at P (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16891)
+	at t.getRootNode (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:145499)
+	at t.DefaultCompletionItemProvider.provideCompletionItemsInternal (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:131039)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:129817)
+	at eC.provideCompletionItems (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:136391)
+	at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:159492
+	at tr.s (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:150779)
+	at tr.$provideCompletionItems (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:159480)
+	at Zb.S (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:113896)
+	at Zb.Q (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:113676)
+	at Zb.M (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:112727)
+	at Zb.L (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:111870)
+	at gh.value (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:110667)
+	at T.B (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+	at T.fire (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:950)
+	at no.fire (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:9399)
+	at gh.value (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:13273)
+	at T.B (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+	at T.fire (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:950)
+	at no.fire (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:9399)
+	at MessagePortMain.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:11562)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2619)
+2024-10-13 20:24:39.357 [error] [vscode.emmet] provider FAILED
+2024-10-13 20:24:39.357 [error] Error: Unable to find matching pair for < at char 118
+	at r.error (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:22471)
+	at d (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:21701)
+	at u (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14683)
+	at d (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14817)
+	at /usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15429
+	at v (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15535)
+	at j (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16481)
+	at P (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16891)
+	at t.getRootNode (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:145499)
+	at t.DefaultCompletionItemProvider.provideCompletionItemsInternal (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:131039)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:129817)
+	at eC.provideCompletionItems (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:136391)
+	at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:159492
+	at tr.s (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:150779)
+	at tr.$provideCompletionItems (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:159480)
+	at Zb.S (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:113896)
+	at Zb.Q (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:113676)
+	at Zb.M (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:112727)
+	at Zb.L (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:111870)
+	at gh.value (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:110667)
+	at T.B (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+	at T.fire (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:950)
+	at no.fire (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:9399)
+	at gh.value (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:13273)
+	at T.B (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+	at T.fire (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:950)
+	at no.fire (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:9399)
+	at MessagePortMain.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:11562)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2619)
+2024-10-13 20:28:19.106 [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons, startup: false, activationEvent: 'onStartupFinished'
+2024-10-13 20:30:39.548 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-10-13 20:30:39.583 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-10-13 20:30:39.689 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-10-13 20:31:47.889 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2024-10-13 22:14:52.937 [info] Extension host terminating: renderer closed the MessagePort
+2024-10-13 22:14:53.029 [info] Extension host with pid 9723 exiting with code 0
